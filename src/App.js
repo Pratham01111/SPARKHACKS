@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <div className="header-left">
           <h1>LocalLinks</h1>
+          <p className="mission-text">Our mission is to help small businesses gain visibility and connect with customers in their local area.</p>
         </div>
         <div className="header-right">
           <button className="register-button">Register</button>

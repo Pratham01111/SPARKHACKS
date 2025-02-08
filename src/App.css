@@ -1,12 +1,12 @@
 .App {
-  text-align: center;
+  text-align: Left;
   font-family: Arial, sans-serif;
 }
 
 .App-header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: Left;
   background-color: #043556;
   padding: 20px 40px;
 }
@@ -16,8 +16,16 @@
   font-size: 2.5em;
 }
 
+.mission-text {
+  color: white;
+  font-size: 1.2em;
+  margin-top: 10px;
+  text-align: center;
+  font-style: italic;
+}
+
 .header-right .register-button {
-  background-color: #24C3F2;
+  background-color: #2E6095;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -31,11 +39,11 @@
 }
 
 main {
-  margin: 50px;
+  margin: 265px;
 }
 
 footer {
-  background-color: #333;
+  background-color: #043556;
   color: white;
   padding: 20px;
 }
