@@ -10,7 +10,7 @@ function App() {
           <p className="mission-text">Our mission is to help small businesses gain visibility and connect with customers in their local area.</p>
         </div>
         <div className="header-right">
-          <button className="register-button">Register</button>
+          <button className="register-button">Apply</button>
         </div>
       </header>
 
@@ -19,7 +19,6 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>&copy; 2025 LocalLinks. All rights reserved.</p>
         <div className="footer-links">
           <button className="link-button">About</button>
           <button className="link-button">Contact</button>
