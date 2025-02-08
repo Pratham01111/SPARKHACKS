@@ -5,9 +5,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>LocalLinks</h1>
-        <p>Welcome to LocalLinks! Your one-stop solution for discovering local businesses.</p>
+        <div className="header-left">
+          <h1>LocalLinks</h1>
+        </div>
+        <div className="header-right">
+          <button className="register-button">Register</button>
+        </div>
       </header>
+
+      <main>
+        <p>Welcome to LocalLinks! Your one-stop solution for discovering local businesses.</p>
+      </main>
 
       <footer className="footer">
         <p>&copy; 2025 LocalLinks. All rights reserved.</p>

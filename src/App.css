@@ -1,21 +1,37 @@
 .App {
-  text-align: lefts;
+  text-align: center;
   font-family: Arial, sans-serif;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  color: blue;
+  background-color: #282c34;
+  padding: 20px 40px;
 }
 
-h1 {
-  font-size: 4em;
-  margin-bottom: 20px;
+.header-left h1 {
+  color: white;
+  font-size: 2.5em;
+}
+
+.header-right .register-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.header-right .register-button:hover {
+  background-color: #0056b3;
+}
+
+main {
+  margin: 50px;
 }
 
 footer {
