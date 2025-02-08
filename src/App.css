@@ -7,7 +7,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #282c34;
+  background-color: #043556;
   padding: 20px 40px;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .header-right .register-button {
-  background-color: #007bff;
+  background-color: #24C3F2;
   color: white;
   border: none;
   padding: 10px 20px;
