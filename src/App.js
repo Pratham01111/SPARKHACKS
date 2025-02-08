@@ -45,7 +45,7 @@ function App() {
 
       <footer className="footer">
         <div className="footer-links">
-          <button className="link-button">Abou</button>
+          <button className="link-button">About</button>
           <button className="link-button">Contact</button>
           <button className="link-button">Privacy Policy</button>
         </div>
