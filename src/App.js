@@ -36,8 +36,8 @@ function App() {
               <p>Get in touch with local businesses and stay updated.</p>
             </div>
             <div className="service-card">
-              <h3>Local Promotions</h3>
-              <p>Find exclusive offers and discounts from local businesses.</p>
+              <h3>Business Reviews</h3>
+              <p>Find reviews about local businesses.</p>
             </div>
           </div>
         </section>
